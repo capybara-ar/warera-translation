@@ -313,13 +313,13 @@ msgstr "<0/> fue nombrado como <1>{0}</1>"
 #. placeholder {0}: data.roundNumber
 #: src/components/_political/message/systemMessage.frontConfig.tsx:55
 msgid "<0/> won round {0}"
-msgstr ""
+msgstr "<0/> ganó la ronda {0}"
 
 #. placeholder {0}: data.attackerWonRoundsCount
 #. placeholder {1}: data.defenderWonRoundsCount
 #: src/components/_political/message/systemMessage.frontConfig.tsx:64
 msgid "<0/> won the battle ({0}-{1})"
-msgstr ""
+msgstr "<0/> ganó la batalla ({0}-{1})"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:349
 msgid "<0/> won the primary election in <1/> and can now run for president!"
@@ -1493,7 +1493,7 @@ msgstr "Crear la unidad militar"
 
 #: src/pages/user/[userId]/bans.tsx:181
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -2852,7 +2852,7 @@ msgstr "regaló a"
 
 #: src/components/_user/user/UserDropdown.tsx:333
 msgid "Give badge"
-msgstr ""
+msgstr "Dar insignia"
 
 #: src/components/_user/user/UserDropdown.tsx:312
 msgid "Give money"
@@ -3496,7 +3496,7 @@ msgstr "Quizás la próxima vez ^^"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:13
 msgid "Medieval"
-msgstr ""
+msgstr "Medieval"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:65
 msgid "Medieval Boots"
@@ -5692,7 +5692,7 @@ msgstr "Top"
 
 #: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
-msgstr ""
+msgstr "Top (1 día)"
 
 #: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
@@ -6057,7 +6057,7 @@ msgstr "Usuarios"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:9
 msgid "UwU"
-msgstr ""
+msgstr "UwU"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:8
 msgid "Valentine Ammo"
@@ -6157,7 +6157,7 @@ msgstr "Vicepresidente"
 
 #: src/components/_military/battle/BattleHeader.tsx:168
 msgid "View on map"
-msgstr ""
+msgstr "Ver en el mapa"
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"
